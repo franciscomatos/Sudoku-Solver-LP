@@ -26,7 +26,7 @@ The tests are in the folder 'Testes'.
 
 ## Acknowledgments
 
-Some predicates in the 'SUDOKU.pl' file were given by the teachers of the course to help the students implement the project. The tests were also made by the teachers. 
+Some predicates in the 'SUDOKU.pl' file were given by the teachers of the course to help the students implement the project. The tests were also made by the teachers.
 
 ## Evaluation
 
